@@ -1,4 +1,3 @@
-Basic Blog App  
-I followed along with the tutorial
+I followed along with the tutorial on Flask project
 Link Here:  
-[text](https://flask.palletsprojects.com/en/stable/tutorial/)
+[Basic Blog App](https://flask.palletsprojects.com/en/stable/tutorial/)
