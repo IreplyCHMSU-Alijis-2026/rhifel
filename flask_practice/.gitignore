@@ -1,0 +1,4 @@
+.flask_venv/var/flask-instance/config.py
+.flask_venv/
+dist
+instance
